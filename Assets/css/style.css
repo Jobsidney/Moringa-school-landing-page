@@ -1,3 +1,86 @@
 body{
+    font-family: 'Nunito';
+    margin: 80px;
+}
+.Enroll{
+    background-color: #EC4067;
+    border-radius: 10px;
+    width: 70px;
+    height: 25px;
+
+    padding-top: 5px;
+    padding-bottom: 0;
+    text-align: center;
+    color: white;
+    font-weight: 200;
+  
+}
+li{
+    padding: 8px;
+}
+
+.menuLink{
+    float: right;
+    list-style-type: none;
+    display: flex;
     
+}
+.menuLink a{
+    text-decoration: none;
+}
+.menuLink2 a{
+    text-decoration: none;
+    color: white;
+}
+.menuLink2{
+    display: flex;
+    margin-left: 0;
+    
+}
+
+#study{
+    border-image-width: 50%;
+}
+.Navi{
+    width: 100px;
+    height: 20px;
+    background-color:white;
+    text-align: center;
+    border-style: solid;
+    border: 1px solid #EC4067;
+    font-weight: 200;
+    font-weight: 500;
+    padding-top: 8px;
+    padding-bottom: 7px;
+}
+.Navi2{
+    width: 100px;
+    height: 25px;
+    background-color: #EC4067;
+  
+    text-align: center;
+    color: white;
+    font-weight: 200;
+    border-radius: 5px;
+    margin-right: 20px;
+    padding: 5px;
+}
+.ImageWord{
+    padding-top: 10px;
+    display: flex;
+}
+.stori{
+    background-color: rgb(184, 189, 192);
+}
+.StoriSize{
+    font-size: x-large;
+}
+a{
+    text-decoration: none;
+}
+
+
+.imageTitle{
+    padding: 30px;
+    font-size: large;
 }
