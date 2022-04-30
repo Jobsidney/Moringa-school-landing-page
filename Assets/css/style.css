@@ -2,7 +2,7 @@ body{
     font-family: 'Nunito';
     margin-left: 100px;
     margin-right: 10px;
-    margin-bottom: 80px;
+    margin-bottom: 0px;
 
 }
 .wholepage{
@@ -26,9 +26,11 @@ li{
 }
 
 .menuLink{
-    float: right;
     list-style-type: none;
     display: flex;
+    margin-top: 0;
+    float: right;
+    margin-left: 600px;
     
 }
 .menuLink a{
@@ -134,7 +136,43 @@ a{
     margin-right: 20px;
     padding: 5px;
 }
+.NaviMentor a{
+    font-size:17px;
+}
 .staff{
     display: flex;
 
+}
+.bike{
+    width: 500px;
+    margin-left: 20px;
+    padding-top: 90px;
+
+}
+.bikeButton{
+    padding: 5px;
+    text-align: center;
+    border: 1px solid #EC4067;
+    border-radius: 5px;
+    background-color: #EC4067;
+}
+.bikeButton a{
+    color: white;
+
+}
+.bottomContainer{
+    margin-top: 50px;
+    background-color: rgb(231, 236, 236);
+    height: 60px;
+    text-align: center;
+    padding: 30px;
+    color: rgb(139, 142, 145);
+}
+.wordSection{
+    max-width:400px;
+    min-width: 400px;
+    display: block;
+}
+.wordSection strong{
+    font-size: x-large;
 }
