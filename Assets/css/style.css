@@ -1,6 +1,12 @@
 body{
     font-family: 'Nunito';
-    margin: 80px;
+    margin-left: 120px;
+    margin-right: 80px;
+    margin-bottom: 80px;
+
+}
+.wholepage{
+    margin-right: 200px;
 }
 .Enroll{
     background-color: #EC4067;
@@ -83,4 +89,52 @@ a{
 .imageTitle{
     padding: 30px;
     font-size: large;
+}
+
+.mentorS{
+    position: absolute;
+    display:grid; 
+    width: auto;
+    
+}
+.mentorImage{
+    max-width: 10px;
+   
+}
+.mentorName{
+    position: absolute;
+    margin-top: 190px;
+    margin-left: 28px;
+    text-align: center;
+    color: white;
+    font-weight: bold;
+
+}
+.style:hover{
+    opacity: 0.9;
+    transform: scale(1.1);
+    transition: 1s;
+}
+.ImageWord2{
+    padding-top: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    display: grid;
+    grid-column: 1;
+}
+.NaviMentor{
+    width: 120px;
+    height: 25px;
+    background-color: #EC4067;
+  
+    text-align: center;
+    color: white;
+    font-weight: 200;
+    border-radius: 5px;
+    margin-right: 20px;
+    padding: 5px;
+}
+.staff{
+    display: flex;
+
 }
