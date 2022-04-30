@@ -167,6 +167,9 @@ a{
     text-align: center;
     padding: 30px;
     color: rgb(139, 142, 145);
+    margin-right: 0px;
+    margin-left: 0px;
+    width: 100%;
 }
 .wordSection{
     max-width:400px;
@@ -175,4 +178,5 @@ a{
 }
 .wordSection strong{
     font-size: x-large;
+    
 }
