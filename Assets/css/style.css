@@ -5,7 +5,11 @@ body{
     margin-bottom: 0px;
 
 }
-.wholepage{
+.mainMottoSection{
+    max-width:430px;
+    min-width: 430px;
+    display: block;
+    margin-right: 120px;
     
 }
 .Enroll{
@@ -187,3 +191,4 @@ a{
     position: relative;
     margin-bottom: 20px;
 }
+
