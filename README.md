@@ -25,7 +25,7 @@ the following are the process to show your contribution to this page:
 - Add the changes (`git add .`).
 - to reflect the changes.
 - commit changes (`git commit -m 'Contributing new featires'`).
-- push cahnges to the branch (`git push origin contribute`).
+- push changes to the branch (`git push origin contribute`).
 - Do a pull Request.
   
 
@@ -40,7 +40,7 @@ the following are the process to show your contribution to this page:
 
 ## To-do list
 - Add interactive features using JavaScript
-- Code a good backend using Golang
+- Code a good backend using Golang or Ruby and APIs
 - Link it to other important website on complition
   
 ### Code sample
@@ -75,3 +75,4 @@ the following are the process to show your contribution to this page:
 ```
 ## Contributers
 - [Jobsidney](https://github.com/Jobsidney/)
+  
