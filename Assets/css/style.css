@@ -143,12 +143,7 @@ a{
     display: flex;
 
 }
-.bike{
-    width: 500px;
-    margin-left: 20px;
-    padding-top: 90px;
 
-}
 .bikeButton{
     padding: 5px;
     text-align: center;
@@ -157,6 +152,13 @@ a{
     background-color: #EC4067;
     
 }
+.bike{
+    width: 500px;
+    margin-left: 20px;
+    padding-top: 90px;
+
+}
+
 .bikeButton a{
     color: white;
 
@@ -180,4 +182,8 @@ a{
 .wordSection strong{
     font-size: x-large;
     
+}
+.mentorsHeading{
+    position: relative;
+    margin-bottom: 20px;
 }
