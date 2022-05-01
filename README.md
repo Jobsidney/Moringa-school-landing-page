@@ -10,8 +10,9 @@ Here is a working demo of this landing page: https://jobsidney.github.io/Moringa
 
 ***
 ## The Site
-
 ## [Usage](https://jobsidney.github.io/Moringa-school-landing-page/) 
+
+<img src="./Assets/images/demo.png">
 
 ### Development & contributions
 
