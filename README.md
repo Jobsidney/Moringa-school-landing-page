@@ -1,4 +1,4 @@
-# Moringa landing Page- HTML
+# Moringa-school-landing-Page
 ***
 
 
@@ -29,7 +29,7 @@ the following are the process to show your contribution to this page:
   
 
 
-## [Features]()
+## [Features](https://jobsidney.github.io/Moringa-school-landing-page/)
 
 - Uses HTML5
 - Well arranged and designed User Interface(UI).
