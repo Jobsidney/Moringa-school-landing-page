@@ -10,9 +10,8 @@ Here is a working demo of this landing page: https://jobsidney.github.io/Moringa
 ***
 ## The Site
 
-### Landing Page
+## [Usage](https://jobsidney.github.io/Moringa-school-landing-page/) 
 
-## .[Usage].(https://jobsidney.github.io/Moringa-school-landing-page/)
 ### Development & contributions
 Do you want to make it better?
 the following are the process to show your contribution to this page:
@@ -28,7 +27,7 @@ the following are the process to show your contribution to this page:
   
 
 
-## Features(Built with)
+## [Features(Built with)]
 - Uses HTML5
 - Well arranged and designed User Interface(UI).
 - Css selectors uses classes that are reusable hence small but reliable codes.
