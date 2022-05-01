@@ -29,20 +29,21 @@ the following are the process to show your contribution to this page:
   
 
 
-## [Features(Built_With)]
+## [Features]()
 
 - Uses HTML5
 - Well arranged and designed User Interface(UI).
 - Css selectors uses classes that are reusable hence small but reliable codes.
 - Easy navigation to multiple pages via links.
-- 
+  
+
 ## To-do list
 - Add interactive features using JavaScript
 - Code a good backend using Golang
 - Link it to other important website on complition
   
 ### Code sample
-#### [Html]
+#### Html
 ```Html
 <div class="imageTitle">
                 <section class="wordSection">
@@ -55,7 +56,7 @@ the following are the process to show your contribution to this page:
             </div>
 ```
 
-#### [Css]
+#### Css
     Example of Css class (Navi2)
 ```Css
 .Navi2{
@@ -72,4 +73,4 @@ the following are the process to show your contribution to this page:
 }
 ```
 ## Contributers
-- [JObsidney](https://github.com/Jobsidney/)
+- [Jobsidney](https://github.com/Jobsidney/)
