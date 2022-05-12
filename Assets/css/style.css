@@ -5,6 +5,10 @@ body{
     margin-bottom: 0px;
 
 }
+.moringas{
+    padding-bottom: 20px;
+    font-size: 20px;
+}
 .mainMottoSection{
     max-width:430px;
     min-width: 430px;
@@ -33,8 +37,7 @@ li{
     list-style-type: none;
     display: flex;
     margin-top: 0;
-    float: right;
-    margin-left: 600px;
+    
     
 }
 .menuLink a{
@@ -77,10 +80,17 @@ li{
     margin-right: 20px;
     padding: 5px;
 }
+.Nuturing{
+    color: #EC4067;
+    font-family:Nunito;
+    font-size: xx-large;
+    font-weight: 400;
+}
 .ImageWord{
     padding-top: 10px;
     display: flex;
 }
+.cartoon{min-width:200px}
 .stori{
     background-color: rgb(184, 189, 192);
 }
@@ -192,3 +202,170 @@ a{
     margin-bottom: 20px;
 }
 
+
+
+
+
+/*Media query for landing page*/
+
+@media screen and (max-width:800px) {
+    body{
+        font-family: 'Nunito';
+        margin-left: 10%;
+        margin-right: 10%;
+        margin-bottom: 0px;
+        justify-content: center;
+    
+    }
+    .moringas{
+        padding-bottom: 20px;
+        font-size: 50px;
+    }
+    .menuLink{
+        list-style-type: none;
+        display: flex;
+        margin-top: 0;
+        font-size: 20%;
+        padding-left: 10px;
+        
+        
+    }
+   
+    .Enroll{
+        background-color: #EC4067;
+        border-radius: 10px;
+        width: 50px;
+        height: 70%;
+        
+    
+        padding-top: 5px;
+        padding-bottom: 0;
+        text-align: center;
+        color: white;
+        font-weight: 200;
+      
+    }
+    li{
+        padding: 5px;
+    }
+    .Nuturing{
+        color: #EC4067;
+        font-family:Nunito;
+        font-size: x-large;
+        font-weight: 600;
+    }
+    .ImageWord{
+        padding-top: 10px;
+        display: flex;
+        flex-direction: column;
+    }
+    .headingImage>.ImageWord>div>img{
+        width: 100%;
+    }
+    .ImageWord>div>img{
+        width: 100%;
+    }
+    .staff{
+        display: flex;
+        flex-direction: column;
+    
+    }
+    .wordSection{
+        max-width:auto;
+        min-width: auto;
+        
+    }
+    .wordSection strong{
+        font-size: x-large;
+        
+    }
+    .mainMottoSection{
+        max-width:auto;
+        min-width: auto;
+        margin-right: 10px;
+        
+    }
+
+}
+
+
+
+/* TABLETS */
+
+
+
+@media screen and (max-width: 1030px) {
+    body{
+        font-family: 'Nunito';
+        margin-left: 10%;
+        margin-right: 10%;
+        margin-bottom: 0px;
+        justify-content: center;
+    
+    }
+    .menuLink{
+        list-style-type: none;
+        display: flex;
+        margin-top: 0;
+        font-size: 100%;
+        padding-left: 10px;
+        
+        
+    }
+   
+    .Enroll{
+        background-color: #EC4067;
+        border-radius: 10px;
+        width: 50px;
+        height: 70%;
+        
+    
+        padding-top: 5px;
+        padding-bottom: 0;
+        text-align: center;
+        color: white;
+        font-weight: 200;
+      
+    }
+    li{
+        padding: 5px;
+    }
+    .Nuturing{
+        color: #EC4067;
+        font-family:Nunito;
+        font-size: x-large;
+        font-weight: 600;
+    }
+    .ImageWord{
+        padding-top: 10px;
+        display: flex;
+        flex-direction: column;
+    }
+    .headingImage>.ImageWord>div>img{
+        width: 100%;
+    }
+    .ImageWord>div>img{
+        width: 100%;
+    }
+    .staff{
+        display: flex;
+        flex-direction: column;
+    
+    }
+    .wordSection{
+        max-width:auto;
+        min-width: auto;
+        
+    }
+    .wordSection strong{
+        font-size: xx-large;
+        
+    }
+    .mainMottoSection{
+        max-width:auto;
+        min-width: auto;
+        margin-right: 10px;
+        
+    }
+
+}
