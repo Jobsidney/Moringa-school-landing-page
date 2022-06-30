@@ -36,7 +36,7 @@ the following are the process to show your contribution to this page:
 - Well arranged and designed User Interface(UI).
 - Css selectors uses classes that are reusable hence small but reliable codes.
 - Easy navigation to multiple pages via links.
-  
+- ease  
 
 ## To-do list
 - Add interactive features using JavaScript
